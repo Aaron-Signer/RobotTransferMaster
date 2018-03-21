@@ -1,0 +1,6 @@
+Ultra simple LIDAR data grabber for RPLIDAR.
+Version: 1.5.7
+RPLIDAR S/N: A7629DF1C3E39AC4C3E698F957B5340D
+Firmware Ver: 1.22
+Hardware Rev: 4
+RPLidar health status : 0

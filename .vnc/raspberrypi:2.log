@@ -1,0 +1,30 @@
+05/03/18 00:33:11 Xvnc version TightVNC-1.3.9
+05/03/18 00:33:11 Copyright (C) 2000-2007 TightVNC Group
+05/03/18 00:33:11 Copyright (C) 1999 AT&T Laboratories Cambridge
+05/03/18 00:33:11 All Rights Reserved.
+05/03/18 00:33:11 See http://www.tightvnc.com/ for information on TightVNC
+05/03/18 00:33:11 Desktop name 'X' (raspberrypi:2)
+05/03/18 00:33:11 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+05/03/18 00:33:11 Listening for VNC connections on TCP port 5902
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/pi/.Xresources'
+
+05/03/18 00:33:27 Got connection from client 10.71.3.7
+05/03/18 00:33:27 Using protocol version 3.8
+05/03/18 00:33:30 Full-control authentication passed by 10.71.3.7
+05/03/18 00:33:30 Pixel format for client 10.71.3.7:
+05/03/18 00:33:30   32 bpp, depth 24, little endian
+05/03/18 00:33:30   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+05/03/18 00:33:30   no translation needed
+05/03/18 00:33:30 Enabling X-style cursor updates for client 10.71.3.7
+05/03/18 00:33:30 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+05/03/18 00:33:30 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+05/03/18 00:33:30 rfbProcessClientNormalMessage: ignoring unknown encoding -308
+05/03/18 00:33:30 rfbProcessClientNormalMessage: ignoring unknown encoding -307
+05/03/18 00:33:30 Enabling LastRect protocol extension for client 10.71.3.7
+05/03/18 00:33:30 rfbProcessClientNormalMessage: ignoring unknown encoding -313
+05/03/18 00:33:30 rfbProcessClientNormalMessage: ignoring unknown encoding -312
+05/03/18 00:33:30 Using tight encoding for client 10.71.3.7
+05/03/18 00:33:30 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+05/03/18 00:33:30 Using image quality level 8 for client 10.71.3.7

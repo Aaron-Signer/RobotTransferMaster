@@ -1,0 +1,48 @@
+{
+   "checksum": "0d8666ede5c14854de0cbbf30a9cb7f3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13133643192828686",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13133749870973416"
+            },
+            "name": "RPLidarSDK",
+            "type": "url",
+            "url": "http://slamtec.com/en/Support"
+         }, {
+            "date_added": "13133643305946129",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13160428681122304"
+            },
+            "name": "RPLidarManual",
+            "type": "url",
+            "url": "http://www.slamtec.com/download/lidar/documents/en-us/rplidar_sdk_manual_en.pdf"
+         } ],
+         "date_added": "13133642912189248",
+         "date_modified": "13133643305946129",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13133642912189266",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13133642912189271",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
